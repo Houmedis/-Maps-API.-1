@@ -1,7 +1,7 @@
 import sys
 import pygame
 import requests
-# Создал Данияр
+
 
 api_server = "http://static-maps.yandex.ru/1.x/"
 lon = input('Введите долготу ')  # "37.530887"
